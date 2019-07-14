@@ -35,6 +35,7 @@ def initial_round
   sum=0 
   2.times do 
     card=deal_card
+    sum+= card
     
 end
 

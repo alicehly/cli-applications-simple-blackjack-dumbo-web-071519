@@ -37,7 +37,7 @@ def initial_round
     card=deal_card
     sum+= card
   end
-  
+  display_card_total
 end
 
 def hit?

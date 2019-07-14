@@ -47,6 +47,7 @@ def hit?
   user_input=get_user_input
   if user input ="s"
     
+  else if user_input="h"
 end
 
 def invalid_command

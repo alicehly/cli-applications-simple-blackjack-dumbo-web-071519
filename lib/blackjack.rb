@@ -46,7 +46,7 @@ def hit?
   prompt_user
   user_input=get_user_input
   if user input ="s"
-    
+    current_card_total
   else if user_input="h"
 end
 

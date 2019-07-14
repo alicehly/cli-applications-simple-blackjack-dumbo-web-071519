@@ -38,7 +38,7 @@ def initial_round
     sum+= card
   end
   display_card_total(sum)
-  
+  return sum
 end
 
 def hit?
